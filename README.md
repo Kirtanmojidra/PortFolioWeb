@@ -7,8 +7,7 @@ Welcome to my personal portfolio website! I'm a Full Stack Developer, and this i
 ## 💼 Projects
 
 ### 🔧 BlogToHeaven - Full Stack Blogging Website
-**Description:** BlogToHeaven is a blogging platform designed to help users create and manage their own blogs effortlessly. Built with simplicity and user-friendliness in mind, it offers a clean and intuitive interface for seamless blogging experiences.
-
+**Description:** BlogToHeaven is a blogging platform designed to help users create and manage their own blogs effortlessly. Built with simplicity and user-friendliness in mind, it offers a clean and intuitive interface for seamless blogging experiences
 **Tech used:** HTML, CSS, JS, Tailwind, Djnago, QuillJS(WYSIWYG editor)
 [View on GitHub](https://github.com/Kirtanmojidra/BlogToHeaven)
 
