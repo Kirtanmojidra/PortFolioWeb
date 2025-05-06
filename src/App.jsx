@@ -185,11 +185,12 @@ function App() {
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.4 }}
-                    className="text-lg md:text-xl text-gray-300 max-w-2xl overflow-hidden whitespace-nowrap border-r-4 border-r-amber-400"
+                    className="text-xl text-gray-300 max-w-full"
                   >
                     I build beautiful, responsive websites and applications with
                     clean code and exceptional user experiences.
                   </motion.p>
+
                   <motion.div
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -982,7 +983,7 @@ function App() {
                           Jinja
                         </span>
                         <span className="px-4 py-1.5 bg-amber-500/10 text-amber-300 border border-amber-500/30 rounded-full text-sm font-medium">
-                        PostgreSQL
+                          PostgreSQL
                         </span>
                       </div>
                       <div className="flex gap-6">
