@@ -1,8 +1,3 @@
----
-layout: default
-title: My Portfolio
----
-
 # 👋 Hello, I'm Kirtan Mojidra
 
 Welcome to my personal portfolio website! I'm a Full Stack Developer, and this is a place to showcase my work and passions.
