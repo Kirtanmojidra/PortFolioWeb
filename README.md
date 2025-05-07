@@ -14,9 +14,9 @@ Welcome to my personal portfolio website! I'm a Full Stack Developer, and this i
 
 ---
 
-### 📊 Project Two
-**Description:** Another project, maybe with data visualization or machine learning.  
-**Tech used:** Python, Pandas, Matplotlib  
+### 📊 Ollama Chat UI - FrontEnd
+**Description:** Developed a custom chat interface for Ollama that allows users to run and interact with AI models locally and completely offline. 
+**Tech used:** ReacJS, Tailwind
 [View on GitHub](https://github.com/yourusername/project-two)
 
 ---
